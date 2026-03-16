@@ -1,28 +1,21 @@
 <template>
   <main>
     <!-- Hero Section -->
-    <section id="home" class="min-h-screen flex items-center relative overflow-hidden">
+    <section id="home" class="min-h-[100vh] flex items-center relative overflow-hidden">
       <div class="container mx-auto px-20 grid grid-cols-1 md:grid-cols-2 gap-12 items-center mt-8 pt-8 md:mt-0 md:pt-4">
         <!-- Left Content -->
         <div class="text-left">
           <h3 class="text-3xl font-bold mb-8" style="line-height: 1.25!important;">
-            Streamline your E-commerce strategy and boost sales with ease!
+            Connect TikTok Shop with Shopify and Scale Your Sales
           </h3>
           <p class="text-xl text-gray-600 mb-8">
-            We design and develop mobile applications, digital platforms, and software solutions that enable businesses to optimize operations and accelerate growth in the digital age.
+          Automatically sync products, inventory, and orders between Shopify and TikTok Shop. Our integration helps merchants streamline operations, manage sales channels effortlessly, and grow faster with powerful automation.
           </p>
-          <div class="flex gap-4">
-            <Button 
-              @click="navigateToSection('portfolio')" 
-              label="Our Project" 
-              class="p-button-rounded p-button-lg custom-our-work"
-            />
-          </div>
         </div>
         <!-- Right Illustration -->
         <div class="relative">
           <img 
-            src="/banner1.webp"
+            src="https://p16-tiktokcdn-com.akamaized.net/obj/tiktok-obj/b3850c083fd55c2a7de6c7a0f67fabc3"
             alt="Creative workspace"
             class="rounded-2xl transform hover:scale-105 transition-transform duration-300"
           />
@@ -69,7 +62,7 @@
         <div>
           <h2 class="text-3xl font-bold mb-6">About us</h2>
           <p class="text-gray-600 mb-8">
-            Gravity Hubs builds mobile apps, web platforms, and custom software solutions that help modern businesses operate smarter. We focus on scalable technology that delivers real, measurable value.
+            Elden Software builds mobile apps, web platforms, and custom software solutions that help modern businesses operate smarter. We focus on scalable technology that delivers real, measurable value.
           </p>
           <router-link to="/about">
             <Button label="Learn More" icon="pi pi-arrow-right" severity="secondary" class="p-button-rounded" />

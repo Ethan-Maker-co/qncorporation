@@ -17,17 +17,17 @@
     {
       icon: 'pi pi-map-marker',
       title: 'Visit Us',
-      content: 'No. 44, Alley 445 Lac Long Quan Street, Xuan La Ward, Tay Ho District, Hanoi City, Vietnam'
+      content: 'No. 15, Alley 521 Pham Van Dong Street, Xuan Dinh Ward, Hanoi, Vietnam'
     },
     {
       icon: 'pi pi-envelope',
       title: 'Email Us',
-      content: 'support@gravityhubs.com'
+      content: 'support@eldensoftware.com'
     },
     {
       icon: 'pi pi-phone',
       title: 'Call Us',
-      content: '+84 974848363'
+      content: '+84 972136903'
     },
     {
       icon: 'pi pi-clock',
