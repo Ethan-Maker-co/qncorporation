@@ -29,6 +29,11 @@ const router = createRouter({
       name: 'Contact',
       component: () => import('@/views/Contact.vue'),
     },
+    {
+      path: '/policy',
+      name: 'Privacy Policy',
+      component: () => import('@/views/Policy.vue'),
+    },
   ],
   scrollBehavior(to, from, savedPosition) {
     // If there's a saved scroll position (back/forward navigation), restore it
