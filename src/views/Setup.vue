@@ -128,7 +128,7 @@
                     href="mailto:support@hubsy.com"
                     class="text-blue-600 hover:underline"
                   >
-                    support@eldensoftware.com 
+                    support@eldensoftware.com
                   </a>
                 </p>
               </div>

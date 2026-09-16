@@ -34,7 +34,7 @@
           <ServiceCard v-for="service in services.slice(0, 3)" :key="service.title" v-bind="service" />
         </div>
         <div class="text-center mt-12">
-          <router-link to="/services">
+          <router-link to="/term-of-services">
             <Button label="View All Services" icon="pi pi-arrow-right" severity="secondary" class="p-button-rounded" />
           </router-link>
         </div>

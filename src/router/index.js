@@ -10,8 +10,8 @@ const router = createRouter({
       component: Home,
     },
     {
-      path: "/services",
-      name: "Services",
+      path: "/term-of-services",
+      name: "Term of Services",
       component: () => import("@/views/Services.vue"),
     },
     {

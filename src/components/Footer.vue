@@ -19,28 +19,28 @@
           <ul class="space-y-2 text-gray-400">
             <li>
               <router-link
-                to="/services"
+                to="/term-of-services"
                 class="hover:text-blue-400 transition-colors"
                 >Web Design</router-link
               >
             </li>
             <li>
               <router-link
-                to="/services"
+                to="/term-of-services"
                 class="hover:text-blue-400 transition-colors"
                 >Development</router-link
               >
             </li>
             <li>
               <router-link
-                to="/services"
+                to="/term-of-services"
                 class="hover:text-blue-400 transition-colors"
                 >Branding</router-link
               >
             </li>
             <li>
               <router-link
-                to="/services"
+                to="/term-of-services"
                 class="hover:text-blue-400 transition-colors"
                 >Digital Marketing</router-link
               >

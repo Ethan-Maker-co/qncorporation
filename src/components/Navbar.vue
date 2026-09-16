@@ -45,8 +45,8 @@ const items = [
       'relative after:content-[""] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[3px] after:bg-[#5A58E9] after:transition-all hover:after:w-full',
   },
   {
-    label: "Services",
-    command: () => router.push("/services"),
+    label: "Terms of Service",
+    command: () => router.push("/term-of-services"),
     class:
       'relative after:content-[""] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[3px] after:bg-[#5A58E9] after:transition-all hover:after:w-full',
   },
