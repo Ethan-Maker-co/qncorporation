@@ -5,8 +5,8 @@
         <div>
           <div class="flex items-center gap-2 mb-4">
             <img
-              src="/hubsy-logo.png"
-              alt="Hubsy"
+              src="/edn-logo.png"
+              alt="Elden"
               class="max-w-[75px] max-h-[50px] w-auto h-auto transform hover:scale-105 transition-transform duration-300"
             />
           </div>
@@ -19,28 +19,28 @@
           <ul class="space-y-2 text-gray-400">
             <li>
               <router-link
-                to="/services"
+                to="/term-of-services"
                 class="hover:text-blue-400 transition-colors"
                 >Web Design</router-link
               >
             </li>
             <li>
               <router-link
-                to="/services"
+                to="/term-of-services"
                 class="hover:text-blue-400 transition-colors"
                 >Development</router-link
               >
             </li>
             <li>
               <router-link
-                to="/services"
+                to="/term-of-services"
                 class="hover:text-blue-400 transition-colors"
                 >Branding</router-link
               >
             </li>
             <li>
               <router-link
-                to="/services"
+                to="/term-of-services"
                 class="hover:text-blue-400 transition-colors"
                 >Digital Marketing</router-link
               >
@@ -101,7 +101,7 @@
       </div>
       <div class="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
         <p>
-          &copy; {{ new Date().getFullYear() }} Hubsy Tech. All rights reserved.
+          &copy; {{ new Date().getFullYear() }} Elden Software. All rights reserved.
         </p>
       </div>
     </div>

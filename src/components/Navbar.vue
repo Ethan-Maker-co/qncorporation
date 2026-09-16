@@ -6,8 +6,8 @@
     <template #start>
       <router-link to="/" class="flex items-center gap-2 mr-4">
         <img
-          src="/hubsy-logo.png"
-          alt="Hubsy"
+          src="/edn-logo.png"
+          alt="Elden"
           class="max-w-[75px] max-h-[50px] w-auto h-auto transform hover:scale-105 transition-transform duration-300"
         />
       </router-link>
@@ -45,8 +45,8 @@ const items = [
       'relative after:content-[""] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[3px] after:bg-[#5A58E9] after:transition-all hover:after:w-full',
   },
   {
-    label: "Services",
-    command: () => router.push("/services"),
+    label: "Terms of Service",
+    command: () => router.push("/term-of-services"),
     class:
       'relative after:content-[""] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[3px] after:bg-[#5A58E9] after:transition-all hover:after:w-full',
   },
@@ -69,7 +69,7 @@ const items = [
       'relative after:content-[""] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[3px] after:bg-[#5A58E9] after:transition-all hover:after:w-full',
   },
   {
-    label: "Setup",
+    label: "Setup Guide",
     command: () => router.push("/setup"),
     class:
       'relative after:content-[""] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[3px] after:bg-[#5A58E9] after:transition-all hover:after:w-full',

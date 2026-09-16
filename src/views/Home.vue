@@ -9,7 +9,7 @@
             Connect HubSpot with Shopify and Scale Your Sales
           </h3>
           <p class="text-xl text-gray-600 mb-8">
-          Sync products, customers, orders, and other essential data between Shopify and HubSpot. Hubsy keeps your store and CRM connected, helping merchants reduce manual work, keep data up to date, and streamline their business operations.
+          Sync products, customers, orders, and other essential data between Shopify and HubSpot. Elden Software keeps your store and CRM connected, helping merchants reduce manual work, keep data up to date, and streamline their business operations.
           </p>
         </div>
         <!-- Right Illustration -->
@@ -34,7 +34,7 @@
           <ServiceCard v-for="service in services.slice(0, 3)" :key="service.title" v-bind="service" />
         </div>
         <div class="text-center mt-12">
-          <router-link to="/services">
+          <router-link to="/term-of-services">
             <Button label="View All Services" icon="pi pi-arrow-right" severity="secondary" class="p-button-rounded" />
           </router-link>
         </div>
@@ -62,7 +62,7 @@
         <div>
           <h2 class="text-3xl font-bold mb-6">About us</h2>
           <p class="text-gray-600 mb-8">
-            Hubsy Tech builds mobile apps, web platforms, and custom software solutions that help modern businesses operate smarter. We focus on scalable technology that delivers real, measurable value.
+            Elden Software builds mobile apps, web platforms, and custom software solutions that help modern businesses operate smarter. We focus on scalable technology that delivers real, measurable value.
           </p>
           <router-link to="/about">
             <Button label="Learn More" icon="pi pi-arrow-right" severity="secondary" class="p-button-rounded" />
