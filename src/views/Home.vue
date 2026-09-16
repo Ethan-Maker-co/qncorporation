@@ -6,16 +6,16 @@
         <!-- Left Content -->
         <div class="text-left">
           <h3 class="text-3xl font-bold mb-8" style="line-height: 1.25!important;">
-            Connect TikTok Shop with Shopify and Scale Your Sales
+            Connect HubSpot with Shopify and Scale Your Sales
           </h3>
           <p class="text-xl text-gray-600 mb-8">
-          Automatically sync products, inventory, and orders between Shopify and TikTok Shop. Our integration helps merchants streamline operations, manage sales channels effortlessly, and grow faster with powerful automation.
+          Sync products, customers, orders, and other essential data between Shopify and HubSpot. Hubsy keeps your store and CRM connected, helping merchants reduce manual work, keep data up to date, and streamline their business operations.
           </p>
         </div>
         <!-- Right Illustration -->
         <div class="relative">
           <img 
-            src="https://p16-tiktokcdn-com.akamaized.net/obj/tiktok-obj/b3850c083fd55c2a7de6c7a0f67fabc3"
+            src="/logo.png"
             alt="Creative workspace"
             class="rounded-2xl transform hover:scale-105 transition-transform duration-300"
           />
@@ -62,7 +62,7 @@
         <div>
           <h2 class="text-3xl font-bold mb-6">About us</h2>
           <p class="text-gray-600 mb-8">
-            Elden Software builds mobile apps, web platforms, and custom software solutions that help modern businesses operate smarter. We focus on scalable technology that delivers real, measurable value.
+            Hubsy Tech builds mobile apps, web platforms, and custom software solutions that help modern businesses operate smarter. We focus on scalable technology that delivers real, measurable value.
           </p>
           <router-link to="/about">
             <Button label="Learn More" icon="pi pi-arrow-right" severity="secondary" class="p-button-rounded" />

@@ -63,8 +63,7 @@
           <div>
             <h3 class="font-semibold text-lg text-black">Contact</h3>
             <p>
-              For any privacy-related concerns, please contact: 
-              <span class="text-blue-600">support@eldensoftware.com</span>
+              For any privacy-related concerns, please contact: <span class="text-blue-600">support@eldensoftware.com</span>
             </p>
           </div>
         </div>

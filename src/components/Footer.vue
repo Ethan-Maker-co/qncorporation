@@ -5,9 +5,9 @@
         <div>
           <div class="flex items-center gap-2 mb-4">
             <img
-              src="/elden-logo.png"
-              alt="Creative workspace"
-              class="w-[75px] h-[50px] transform hover:scale-105 transition-transform duration-300"
+              src="/hubsy-logo.png"
+              alt="Hubsy"
+              class="max-w-[75px] max-h-[50px] w-auto h-auto transform hover:scale-105 transition-transform duration-300"
             />
           </div>
           <p class="text-gray-400">
@@ -91,10 +91,7 @@
                 class="pi pi-facebook text-xl cursor-pointer hover:text-blue-400"
               ></i>
             </a>
-            <a
-              target="_blank"
-              href="https://www.youtube.com/@eldensoftware"
-            >
+            <a target="_blank" href="https://www.youtube.com/@eldensoftware">
               <i
                 class="pi pi-youtube text-xl cursor-pointer hover:text-blue-400"
               ></i>
@@ -104,8 +101,7 @@
       </div>
       <div class="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
         <p>
-          &copy; {{ new Date().getFullYear() }} Elden Software. All rights
-          reserved.
+          &copy; {{ new Date().getFullYear() }} Hubsy Tech. All rights reserved.
         </p>
       </div>
     </div>

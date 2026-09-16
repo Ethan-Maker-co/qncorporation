@@ -1,38 +1,43 @@
-import { createRouter, createWebHistory } from 'vue-router';
-import Home from '@/views/Home.vue';
+import { createRouter, createWebHistory } from "vue-router";
+import Home from "@/views/Home.vue";
 
 const router = createRouter({
   history: createWebHistory(),
   routes: [
     {
-      path: '/',
-      name: 'Home',
+      path: "/",
+      name: "Home",
       component: Home,
     },
     {
-      path: '/services',
-      name: 'Services',
-      component: () => import('@/views/Services.vue'),
+      path: "/services",
+      name: "Services",
+      component: () => import("@/views/Services.vue"),
     },
     {
-      path: '/portfolio',
-      name: 'Portfolio',
-      component: () => import('@/views/Portfolio.vue'),
+      path: "/portfolio",
+      name: "Portfolio",
+      component: () => import("@/views/Portfolio.vue"),
     },
     {
-      path: '/about',
-      name: 'About',
-      component: () => import('@/views/About.vue'),
+      path: "/about",
+      name: "About",
+      component: () => import("@/views/About.vue"),
     },
     {
-      path: '/contact',
-      name: 'Contact',
-      component: () => import('@/views/Contact.vue'),
+      path: "/contact",
+      name: "Contact",
+      component: () => import("@/views/Contact.vue"),
     },
     {
-      path: '/policy',
-      name: 'Privacy Policy',
-      component: () => import('@/views/Policy.vue'),
+      path: "/policy",
+      name: "Privacy Policy",
+      component: () => import("@/views/Policy.vue"),
+    },
+    {
+      path: "/setup",
+      name: "Setup",
+      component: () => import("@/views/Setup.vue"),
     },
   ],
   scrollBehavior(to, from, savedPosition) {
