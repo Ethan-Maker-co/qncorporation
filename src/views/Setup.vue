@@ -331,7 +331,7 @@
                     src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=160&q=80"
                     alt="Brett Rudolph"
                     class="w-20 h-20 rounded-full object-cover border-4 border-white"
-                  />
+                  /> 
                 </div>
 
                 <blockquote
