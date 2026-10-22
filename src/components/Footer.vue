@@ -5,7 +5,7 @@
         <div>
           <div class="flex items-center gap-2 mb-4">
             <img
-              src="/edn-logo.png"
+              src="/elden-logo.png"
               alt="Elden"
               class="max-w-[75px] max-h-[50px] w-auto h-auto transform hover:scale-105 transition-transform duration-300"
             />
