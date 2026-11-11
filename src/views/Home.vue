@@ -6,16 +6,16 @@
         <!-- Left Content -->
         <div class="text-left">
           <h3 class="text-3xl font-bold mb-8" style="line-height: 1.25!important;">
-            Connect HubSpot with Shopify and Scale Your Sales
+            Grow Your Business with Our Apps
           </h3>
           <p class="text-xl text-gray-600 mb-8">
-          Sync products, customers, orders, and other essential data between Shopify and HubSpot. Elden Software keeps your store and CRM connected, helping merchants reduce manual work, keep data up to date, and streamline their business operations.
+          Discover smarter ways to grow your business with innovative apps designed to simplify operations, automate everyday tasks, and improve productivity. Our solutions help you save time, optimize workflows, connect your favorite tools, and unlock new opportunities for business growth.
           </p>
         </div>
         <!-- Right Illustration -->
         <div class="relative">
           <img 
-            src="/logo.png"
+            src="/banner1.png"
             alt="Creative workspace"
             class="rounded-2xl transform hover:scale-105 transition-transform duration-300"
           />

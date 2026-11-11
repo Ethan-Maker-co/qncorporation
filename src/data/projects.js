@@ -1,6 +1,6 @@
 export const projects = [
   {
-    title: "Integration Shopify Application",
+    title: "Integration Application",
     description:
       "A powerful integration app that connects Shopify with external platforms, enabling seamless product synchronization, automated order management, and real-time inventory updates to streamline e-commerce operations.",
     image:
