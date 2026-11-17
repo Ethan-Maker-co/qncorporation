@@ -31,13 +31,33 @@ const router = createRouter({
     },
     {
       path: "/policy",
-      name: "Privacy Policy",
+      name: "Policy",
       component: () => import("@/views/Policy.vue"),
     },
     {
       path: "/setup",
       name: "Setup",
       component: () => import("@/views/Setup.vue"),
+    },
+    {
+      path: "/services",
+      name: "Terms of Service",
+      component: () => import("@/views/Services.vue"),
+    },
+        {
+      path: "/termsofservice",
+      name: "Terms",
+      component: () => import("@/views/Termsofservice.vue"),
+    },
+    {
+      path: "/data-deletion",
+      name: "Data Deletion",
+      component: () => import("@/views/DataDeletion.vue"),
+    },
+    {
+      path: "/privacy-policy",
+      name: "Privacy Policy",
+      component: () => import("@/views/PrivacyPolicy.vue"),
     },
   ],
   scrollBehavior(to, from, savedPosition) {
