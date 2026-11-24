@@ -44,7 +44,7 @@ const router = createRouter({
       name: "Terms of Service",
       component: () => import("@/views/Services.vue"),
     },
-        {
+    {
       path: "/termsofservice",
       name: "Terms",
       component: () => import("@/views/Termsofservice.vue"),
@@ -58,6 +58,11 @@ const router = createRouter({
       path: "/privacy-policy",
       name: "Privacy Policy",
       component: () => import("@/views/PrivacyPolicy.vue"),
+    },
+    {
+      path: "/pricing",
+      name: "Pricing",
+      component: () => import("@/views/Pricing.vue"),
     },
   ],
   scrollBehavior(to, from, savedPosition) {

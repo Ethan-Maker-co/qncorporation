@@ -74,5 +74,11 @@ const items = [
     class:
       'relative after:content-[""] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[3px] after:bg-[#5A58E9] after:transition-all hover:after:w-full',
   },
+  {
+    label: "Pricing",
+    command: () => router.push("/pricing"),
+    class:
+      'relative after:content-[""] after:absolute after:bottom-0 after:left-0 after:w-0 after:h-[3px] after:bg-[#5A58E9] after:transition-all hover:after:w-full',
+  },
 ];
 </script>

@@ -96,7 +96,7 @@
                 </p>
 
                 <img
-                  src="/instruction.png"
+                  src="/instruction1.png"
                   alt="Shopify connection instructions"
                   class="max-w-full w-auto max-h-[500px] rounded-lg border border-gray-200 shadow-sm"
                 />
@@ -119,7 +119,7 @@
 
               <div class="ml-11">
                 <p class="leading-7 text-gray-600 mb-4">
-                  After connecting Shopify, click
+                  After connecting Shopify, click to
                   <strong>Connect HubSpot</strong> in the Elden Software
                   onboarding application.
                 </p>
@@ -136,7 +136,7 @@
                 </p>
 
                 <img
-                  src="/account.png"
+                  src="/account1.png"
                   alt="Select HubSpot account"
                   class="max-w-full w-auto max-h-[300px] rounded-lg border border-gray-200 shadow-sm mb-6"
                 />
